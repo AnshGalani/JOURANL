@@ -3,3 +3,5 @@
 
 2.Write a program to create 3*3 matrix of numeric value. Find inputted value by user in this
 matrix. If user value is not available then print proper message.
+
+3.Write a program to print multiplication of two 3*3 matrix.
