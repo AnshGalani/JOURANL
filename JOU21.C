@@ -1,3 +1,7 @@
+/*WAP to create UDF which take input the statement and convert upper case letter to lower case and lower case letter to upper case.
+    For example: Hello GOOD MorninG
+    Output: hELLO good mORNING.*/
+
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
