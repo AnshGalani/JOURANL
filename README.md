@@ -60,13 +60,12 @@
     **Output:** hELLO good mORNING.
     
  22.WAP to create structure emp(eid,ename,dept,basic,da,hra,pf,gross,net). Enter one employee details and print its salary slip from following criteria using UDF.
-
    **NOTE:**.
-   da= 120% of basic.
-   hra=40% of basic.
-   pf=50% of basic.
-   gross=basic+da+hra.
-   net=gross-pf.
+    da= 120% of basic.
+    hra=40% of basic.
+    pf=50% of basic.
+    gross=basic+da+hra.
+    net=gross-pf.
    
  23.Using above structure write program to print 5 employee details and print it.
  
