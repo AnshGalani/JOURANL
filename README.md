@@ -1,4 +1,4 @@
-# JOURANL-1
+# JOURANL
 1.Write a program to create two 3*3 matrix and print addition of it.
 
 2.Write a program to create 3*3 matrix of numeric value. Find inputted value by user in this
