@@ -5,3 +5,5 @@
 matrix. If user value is not available then print proper message.
 
 3.Write a program to print multiplication of two 3*3 matrix.
+
+4.Write a program to enter 5 student name. and search user inputted name in it.
